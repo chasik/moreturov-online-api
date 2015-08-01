@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  good: false
+  ip: MyString
+  port: 1
+  host: MyString
+  country: MyString
+  changed_at: 2015-07-31 22:51:29
+
+two:
+  good: false
+  ip: MyString
+  port: 1
+  host: MyString
+  country: MyString
+  changed_at: 2015-07-31 22:51:29
