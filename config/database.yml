@@ -84,6 +84,7 @@ test:
 #
 production:
   <<: *default
+  host: 192.168.2.135
   database: moreturov-online-api_production
-  username: moreturov-online-api
-  password: <%= ENV['MORETUROV-ONLINE-API_DATABASE_PASSWORD'] %>
+#  username: moreturov-online-api
+#  password: <%= ENV['MORETUROV-ONLINE-API_DATABASE_PASSWORD'] %>
